@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791686228883",
+    "project_id": "authtask-3a537",
+    "storage_bucket": "authtask-3a537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791686228883:android:480bdc543f0e7af0a7d666",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791686228883-ri9nf16sge1823ppe89hd0fas7afu1tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpvdvx_IYnd9z0twLuBX7F-GTw5ntM0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791686228883-ri9nf16sge1823ppe89hd0fas7afu1tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
